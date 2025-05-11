@@ -120,7 +120,7 @@ button.formulario:hover {
     scroll-margin-top: 85px;
 }
 
-#contato {
+#formulariodecontato {
     scroll-margin-top: 85px;
 }
 
